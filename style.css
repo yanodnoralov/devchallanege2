@@ -10,5 +10,5 @@
  
 /* Add Custom CSS after this line */
 .entry-title {
-	text-decoration: underline !important;
+	color: blue;
 }
